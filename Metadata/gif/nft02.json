@@ -1,0 +1,37 @@
+{
+  "description": "The small cat.",
+  "external_url": "https://nft.coming.chat/?cid=28028407201",
+  "image": "https://c-ssl.duitang.com/uploads/item/201907/26/20190726171958_ixeuk.thumb.1000_0.gif",
+  "name": "Coming Card",
+  "attributes": [
+    {
+      "trait_type": "Issuer",
+      "value": "Minix"
+    },
+    {
+      "trait_type": "Cid",
+      "value": "123456"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "https://cloudflare-ipfs.com/ipfs/QmNZEeAN1z"
+    },
+    {
+      "trait_type": "SerialNumber",
+      "value": "2021-6-1"
+    },
+    {
+      "trait_type": "CardName",
+      "value": "kusama纪念卡"
+    },
+    {
+      "trait_type": "Flipside",
+      "value": "https://cloudflare-ipfs.com/ipfs/QmNZEeAN1z"
+    },
+    {
+      "trait_type": "Watermark",
+      "value": "https://cloudflare-ipfs.com/ipfs/QmNZEeAN1z"
+    }
+  ],
+  "background_color": "ffffff"
+}
