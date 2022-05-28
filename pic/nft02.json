@@ -1,0 +1,37 @@
+{
+  "description": "A yellow cat.",
+  "external_url": "https://nft.coming.chat/?cid=28028407201",
+  "image": "https://ipfs.io/ipfs/QmXSMXqe6h9MvAbwUiji7SVu2VB4i87waixMkycBqZqc5n?filename=nft02.jpg",
+  "name": "NFTWAAS",
+  "attributes": [
+    {
+      "trait_type": "Issuer",
+      "value": "Minix"
+    },
+    {
+      "trait_type": "Cid",
+      "value": "123456"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "https://cloudflare-ipfs.com/ipfs/QmNZEeAN1z"
+    },
+    {
+      "trait_type": "SerialNumber",
+      "value": "2021-6-1"
+    },
+    {
+      "trait_type": "CardName",
+      "value": "图片/猫"
+    },
+    {
+      "trait_type": "Flipside",
+      "value": "https://cloudflare-ipfs.com/ipfs/QmNZEeAN1z"
+    },
+    {
+      "trait_type": "Watermark",
+      "value": "https://cloudflare-ipfs.com/ipfs/QmNZEeAN1z"
+    }
+  ],
+  "background_color": "ffffff"
+}
